@@ -1,0 +1,18 @@
+.main-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.main-header img {
+  cursor: pointer;
+}
+
+.main-header {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+}
+@media screen and (max-width: 1090px) {
+  .main-header {
+    width: 90%;
+  }
+}
